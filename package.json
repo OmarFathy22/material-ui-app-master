@@ -1,5 +1,5 @@
 {
-  "homepage":"http://OmarFathy22.github.io/material-ui-app",
+  "homepage": "http://OmarFathy22.github.io/material-ui-app",
   "name": "material-ui-app",
   "version": "0.1.0",
   "private": true,
@@ -55,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
